@@ -1,0 +1,4 @@
+-e git+git://github.com/jlev/paypal-python#egg=paypal-python
+-e git+git://github.com/neworganizing/python-actionkit.git#egg=python-actionkit
+python-dateutil
+progressbar2
