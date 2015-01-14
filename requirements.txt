@@ -2,3 +2,4 @@
 -e git+git://github.com/neworganizing/python-actionkit.git#egg=python-actionkit
 python-dateutil
 progressbar2
+docopt
