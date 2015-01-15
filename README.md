@@ -5,7 +5,7 @@ This is a utility for adding user profile tags to ActionKit users via the API.
 ### Usage:
 
 ```
-python user_tagger.py path_to_user_tag_file
+python user_tagger.py path_to_user_tag_file api_username api_password
 ```
 
 Expected format of the file you're feeding tags through:
